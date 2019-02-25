@@ -1,0 +1,9 @@
+"phone number",carrier,status
+"=""07876133461""",Vodafone,valid
+"=""01234567890""",,invalid
+"=""07896827172""","EE Limited (TM)",valid
+"=""1-541-754-3010""",,invalid
+"=""00-61-01-123-4567""",,invalid
+"=""1""",,invalid
+"=""100000""",,invalid
+"=""07789834417""",Vodafone,valid
